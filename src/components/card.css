@@ -1,0 +1,20 @@
+
+
+.card{
+
+
+display: grid;
+justify-content: center;
+align-items: center;
+text-align: center;
+border-radius: 10px;
+box-shadow: 5px,5px 5px;
+max-width: 350px;
+background-color:#525454;
+padding:10px;
+}
+
+.img-card{
+    border-radius: 10px;
+    max-width: 345;
+}
